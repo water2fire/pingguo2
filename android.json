@@ -1,0 +1,11 @@
+{
+    "domainUrl":"",
+    "updateUrl":"http://appdown.huodongwanjia.com/pingguo2_download/",
+    "branches":[
+      {
+        "code":"1002",
+        "version":"1.0.2",
+        "status":"release"
+      }
+    ]
+  }
